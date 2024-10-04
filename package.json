@@ -1,0 +1,32 @@
+{
+  "name": "discordbottemplatehttp",
+  "version": "1.0.0",
+  "description": "TwilightZebby's personal Discord User App Template for a HTTP-only User App",
+  "main": "index.js",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "wrangler dev",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "publish": "wrangler deploy"
+  },
+  "keywords": [
+    "discord",
+    "discord-app",
+    "discord-bot",
+    "discord-app-template",
+    "discord-bot-template",
+    "template"
+  ],
+  "author": "TwilightZebby",
+  "license": "SEE LICENSE IN https://github.com/TwilightZebby/license/blob/main/license.md",
+  "dependencies": {
+    "@discordjs/collection": "^2.1.1",
+    "discord-api-types": "^0.37.101",
+    "discord-interactions": "^4.1.0",
+    "itty-router": "^5.0.18"
+  },
+  "devDependencies": {
+    "wrangler": "^3.78.6"
+  }
+}

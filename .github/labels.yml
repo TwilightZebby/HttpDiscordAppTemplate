@@ -1,0 +1,54 @@
+- name: blocked
+  description: Being held back for [reason]
+  color: '000000'
+- name: bug
+  description: Something isn't working
+  color: 'd73a4a'
+- name: dependencies
+  description: Pull requests that update a dependency file
+  color: '0366d6'
+- name: documentation
+  description: Improvements to documentation
+  color: '0366d6'
+- name: duplicate
+  description: This issue, pull request, or discussion already exists
+  color: 'cfd3d7'
+- name: enhancement
+  description: This pull request adds new features or improvements
+  color: 'a2eeef'
+- name: help wanted
+  description: Extra attention or research is needed
+  color: '008672'
+- name: invalid
+  description: This doesn't seem right or doesn't belong on this repository 
+  color: 'e4e669'
+- name: localization
+  description: This issue or pull request relates to localization
+  color: '0366d6'
+- name: question
+  description: This is a general question
+  color: 'd876e3'
+- name: reason:discord.js
+  description: Changes or bug fixes due to a Discord.js package update
+  color: '831AEA'
+- name: reason:discord-api-types
+  description: Changes or bug fixes due to a discord-api-types package update
+  color: '831AEA'
+- name: reason:discord
+  description: Changes or bug fixes due to a new Discord update
+  color: '831AEA'
+- name: semver:major
+  description: A breaking change
+  color: '590000'
+- name: semver:minor
+  description: New changes or features that aren't breaking
+  color: '004e63'
+- name: semver:patch
+  description: Bug fixes, string changes, or other extremely minor updates
+  color: '045700'
+- name: suggestion
+  description: This is a suggestion or feature request
+  color: '14D329'
+- name: will not fix/do
+  description: This will not be worked on
+  color: 'ffffff'

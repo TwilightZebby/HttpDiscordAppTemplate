@@ -4,5 +4,6 @@ config.js
 .dev.vars
 .env
 /.wrangler
+wrangler.toml
 
 # /JsonFiles

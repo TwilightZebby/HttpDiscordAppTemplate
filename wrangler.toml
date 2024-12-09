@@ -1,4 +1,0 @@
-name = "zebbytest"
-main = "./index.js"
-compatibility_date = "2024-09-17"
-workers_dev = true

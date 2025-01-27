@@ -1,4 +1,4 @@
-import { MessageFlags } from 'discord-api-types/v10';
+import { InteractionResponseType, MessageFlags } from 'discord-api-types/v10';
 import { UtilityCollections } from '../../Utility/utilityConstants.js';
 import { localize } from '../../Utility/localizeResponses.js';
 import { ContextCommands } from '../../Utility/interactions.js';
